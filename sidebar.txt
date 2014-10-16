@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aad:home|Door43 (aad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aad|d43-aad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aad/archive/master.zip|d43-aad.zip]]
+
+**Recent Changes**
+{{changes>ns = aad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aad|Ethnologue data]]
+
